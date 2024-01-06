@@ -1,0 +1,5 @@
+opencv_python==4.8.0.76
+psycopg2==2.9.7
+PyAudio==0.2.13
+PyQt5==5.15.9
+PyQt5_sip==12.12.2

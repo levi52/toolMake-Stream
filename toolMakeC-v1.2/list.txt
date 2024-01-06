@@ -1,0 +1,39 @@
+卷 OS 的文件夹 PATH 列表
+卷序列号为 B4C6-90D2
+C:.
+│  list.txt
+│  MainWindow.py
+│  MainWindow.ui
+│  README.md
+│  toolMakeW.py
+│  requirements.txt
+│  
+├─asserts
+│  └─icon
+│          audio.svg
+│          audios.svg
+│          camera.svg
+│          chat.svg
+│          close.svg
+│          icon.qrc
+│          maximize.svg
+│          Minimize.svg
+│          Open-file.svg
+│          pause.svg
+│          play.svg
+│          stop circle.svg
+│          Tool.svg
+│          video.svg
+│          window-maximize.svg
+│          
+├─media
+│      recording1-encrypt.wav
+│      recording1.wav
+│      recording2-encrypt.wav
+│      recording2.wav
+│      
+└─__pycache__
+        audio_recorder.cpython-38.pyc
+        MainWindow.cpython-38.pyc
+        toolMakeW.cpython-38.pyc
+        
